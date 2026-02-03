@@ -1,5 +1,5 @@
-# Dress - Power BI
-Proyecto Dress - Análisis de Indumentaria Urbana y Deportes de Acción
+# Dress 
+Análisis de Indumentaria Urbana y Deportes de Acción
 
 Descripción
 Este proyecto presenta el modelo de negocio, análisis de mercado y estrategia de expansión de una marca de indumentaria técnica y casual vinculada a los deportes de acción. La marca opera en los centros comerciales más importantes de la Provincia de Buenos Aires, enfocándose en un público de 15 a 30 años.
