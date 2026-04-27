@@ -1,4 +1,4 @@
-# 👗 Dress — Análisis de Indumentaria Urbana y Deportes de Acción
+# 🛹 Dress — Análisis de Indumentaria Urbana y Deportes de Acción
 
 > Dashboard de Business Intelligence desarrollado en Power BI para el análisis de ventas, rentabilidad y comportamiento comercial de **Dress**, una marca de indumentaria urbana y deportes de acción con presencia en múltiples sucursales del Gran Buenos Aires.
 
