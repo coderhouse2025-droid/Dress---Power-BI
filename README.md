@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="ChatGPT Image 9 jun 2026, 10_57_15" src="https://github.com/user-attachments/assets/60a2fc62-7848-4d3b-b536-6d7090480295" />
+
 # 🛹 Dress — Dashboard de Business Intelligence en Power BI
 
 [![Power BI](https://img.shields.io/badge/Power_BI-Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
