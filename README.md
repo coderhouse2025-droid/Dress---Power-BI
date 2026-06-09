@@ -54,7 +54,7 @@ Estas preguntas no son respondibles desde planillas individuales por sucursal. R
 
 El dashboard reemplaza el ciclo habitual de consolidación manual: exportar Excel de cada sucursal → copiar a una planilla maestra → calcular manualmente → armar gráficos para la reunión de dirección. Ese proceso tomaba días y producía un análisis estático que ya estaba desactualizado al presentarse.
 
-Con el modelo en Power BI: los datos se actualizan desde la fuente, los KPIs se recalculan automáticamente, y cualquier miembro del equipo directivo puede explorar el reporte con filtros sin necesitar a alguien que "sepa Excel".
+Con el modelo en Power BI: los datos se actualizan desde la fuente, los KPIs se recalculan automáticamente, y cualquier miembro del equipo directivo puede explorar el reporte con filtros sin necesitar a alguien con "conocimiento en Excel".
 
 ---
 
