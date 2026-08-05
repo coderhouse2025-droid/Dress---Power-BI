@@ -475,4 +475,4 @@ Data Science · Analytics · Business Intelligence
 ## 📄 Licencia
 
 Proyecto académico desarrollado en el curso de Power BI — Coderhouse 2025.
-Los datos utilizados son ficticios y fueron creados con fines educativos.
+Los datos utilizados son ficticios y fueron creados con fines educativos [Licencia MIT](LICENSE).
